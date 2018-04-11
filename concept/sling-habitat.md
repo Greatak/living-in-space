@@ -1,0 +1,1 @@
+A slight twist on the spinning space station, a sling habitat is tethered to a large object such as an asteroid or comet or even just a more massive spacecraft. This anchor spins and gives the habitat arfiticial gravity as well as a source of materials for growth. 

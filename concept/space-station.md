@@ -1,0 +1,1 @@
+A space station is the most generic form of habitat in space. They come in all shapes and sizes, some with gravity and some without. The important thing is that it is in a stable orbit. Most include pressurized spaces to keep a crew breathing, but some are little more than scaffolding in space to serve some industrial purpose and have no long-term residents.

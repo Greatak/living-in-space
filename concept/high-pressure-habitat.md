@@ -1,0 +1,1 @@
+The air pressure on Venus' surface is only about as bad as a kilometer under Earth's oceans. If it's practical to settle the sea floor on Earth or deep sea explorations of Europa, living on the surface of Venus should be possible as well. Once a sturdy structure is constructed, the surface can be exploited to supply other activity around Venus.
