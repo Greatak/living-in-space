@@ -16,8 +16,8 @@
 title: Living in Space
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of ideas about settlements in space, where they can go and what challenges they face.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://greatak.github.io/living-in-space" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/living-in-space" # the subpath of your site, e.g. /blog
+url: "https://greatak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
