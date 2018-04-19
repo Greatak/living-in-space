@@ -43,13 +43,13 @@ Sulfur deposits in Mercury's northern comfort band can be mixed with regolith to
 
 ### Polar Cold Trap Craters
 
-Water availability is a critical feature for settlement sites. While it is very common throughout the Solar system, successful settlements require so much it is rarely practical to import it. SOme polar craters on Mercury maintain temperatures below 100K because they are permanently in shadow and have gradually built up water ice; nearly as much ice exists on Mercury as the Antarctic ice cap on Earth. Building settlements in these craters can be an essential source of water as well as for heat-sensitive processes. 
+Water availability is a critical feature for settlement sites. While it is very common throughout the Solar system, successful settlements require so much it is rarely practical to import it. Sme polar craters on Mercury maintain temperatures below 100K because they are permanently in shadow and have gradually built up water ice; nearly as much ice exists on Mercury as the Antarctic ice cap on Earth. Building settlements in these craters can be an essential source of water as well as for heat-sensitive processes. 
 
 {% include_relative concept/crater-town.md %}
 
 ### Sunrise Trains
 
-Though the intense sunlight available on Mercury is immensely valuable, it can make living on the surface difficult to settle. Solar panels experience long periods in darkness on the night side and habitats get roasted during the long days. Mercury rotates at about 10.8 km/h at the equator, making mobile structures that chase their ideal temperature and lighting conditions quite feasible, either as trains or independent vehicles. Solar farms can keep themselves under constant sunlight, data centers in constant cold on the nightside and residential habitats can chase the sunrise.
+Though the intense sunlight available on Mercury is immensely valuable, it can make living on the surface difficult. Solar panels experience long periods in darkness on the night side and habitats get roasted during the long days. Mercury rotates at about 10.8 km/h at the equator, making mobile structures that chase their ideal temperature and lighting conditions quite feasible, either as trains or independent vehicles. Solar farms can keep themselves under constant sunlight, data centers in constant cold on the nightside and residential habitats can chase the sunrise.
 
 ### Globus Cassus
 
